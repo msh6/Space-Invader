@@ -1,6 +1,6 @@
 # Space-Invader
 
-Classic Space Invader Game created using Pygame library in Python. Added my own backgroungd, bgm, and special sound effects shooting &
+Classic Space Invader Game created using Pygame library in Python. Added my own backgroungd, bgm, and special sound effects on shooting &
 killing the enemy.
 
 ![Screenshot 2023-07-28 065251](https://github.com/msh6/Space-Invader/assets/89748866/1487efb7-e07c-484e-b684-26e78ffb3d4a)
